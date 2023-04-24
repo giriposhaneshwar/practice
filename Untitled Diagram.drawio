@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T16:00:28.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Yhl6bvnGODcZa50JZppq" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T16:03:51.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bBKXWHV6hSW3sWZOWJs7" version="21.2.1" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -19,6 +19,12 @@
         <mxCell id="ryqElCYvrheLSjMD8XR6-2" value="login" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="170" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ryqElCYvrheLSjMD8XR6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ryqElCYvrheLSjMD8XR6-4" target="ryqElCYvrheLSjMD8XR6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ryqElCYvrheLSjMD8XR6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ryqElCYvrheLSjMD8XR6-4" target="ryqElCYvrheLSjMD8XR6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ryqElCYvrheLSjMD8XR6-4" value="Login and access user features" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -33,6 +39,18 @@
         </mxCell>
         <mxCell id="ryqElCYvrheLSjMD8XR6-8" value="Login Success" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryqElCYvrheLSjMD8XR6-11" value="user features&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ryqElCYvrheLSjMD8XR6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ryqElCYvrheLSjMD8XR6-13" target="ryqElCYvrheLSjMD8XR6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ryqElCYvrheLSjMD8XR6-13" value="Chat Features&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ryqElCYvrheLSjMD8XR6-15" value="&lt;ul&gt;&lt;li&gt;connect to socket&amp;nbsp;&lt;/li&gt;&lt;li&gt;join room&lt;/li&gt;&lt;li&gt;get groups&lt;/li&gt;&lt;li&gt;get chat history&lt;/li&gt;&lt;li&gt;live chat&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="470" y="490" width="140" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
